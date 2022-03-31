@@ -569,7 +569,6 @@ frying_pan, frypan, skillet
 fur_coat
 garbage_truck, dustcart
 FaceMask
-gasmask, respirator, gas_helmet
 gas_pump, gasoline_pump, petrol_pump, island_dispenser
 goblet
 go-kart
